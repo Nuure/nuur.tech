@@ -88,7 +88,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>tech.nuur.web.WebApplication</mainClass>
+							<mainClass>tech.WebApplication</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
