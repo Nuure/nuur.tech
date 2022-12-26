@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* tech.nuur.web.WebApplication
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* tech.WebApplication
