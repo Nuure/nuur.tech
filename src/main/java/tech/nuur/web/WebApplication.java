@@ -1,4 +1,4 @@
-package tech;
+package tech.nuur.web;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
