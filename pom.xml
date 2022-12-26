@@ -8,10 +8,10 @@
 		<version>3.0.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>tech.nuur</groupId>
-	<artifactId>nuur.tech</artifactId>
+	<groupId>tech</groupId>
+	<artifactId>tech</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>nuur.tech</name>
+	<name>tech</name>
 	<description>Website</description>
 	<properties>
 		<java.version>17</java.version>
